@@ -1,5 +1,5 @@
 # Reflections on Project 1
-[HTML results for the project](projects/Project-1.html)
+[HTML results for the project](https://github.com/Branticus71/Branticus71.github.io/blob/main/Projects/Project-1.html)
 ## What was the purpose of the project?
 The purpose of the project was to get practice processing data in R then creating functions that could parse and graph out similar datasets.
 
