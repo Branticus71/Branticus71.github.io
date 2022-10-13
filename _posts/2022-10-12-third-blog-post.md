@@ -2,8 +2,6 @@
 [github pages](https://branticus71.github.io/Project-2-Group-Q/)
 [github repo](https://github.com/Branticus71/Project-2-Group-Q)
 
-# Thoughts
-
 ## What I did
 On this project, I helped create a vignette for the Spoonacular API which involved the creation of functions to call the API and some exploratory data analysis.
 ## What I Found Difficult
