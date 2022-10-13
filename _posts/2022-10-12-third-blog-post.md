@@ -1,4 +1,4 @@
-# Links
+# Project 2
 [github pages](https://branticus71.github.io/Project-2-Group-Q/)
 [github repo](https://github.com/Branticus71/Project-2-Group-Q)
 
