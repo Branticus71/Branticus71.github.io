@@ -9,6 +9,7 @@ Whenever I am given data the first thing I always do is familiarize myself with 
     - Sometimes the names of variables aren't totally clear as to what they capture so if there is a codebook or something along those lines it should be read for each variable.
 - What is the best way to table/graph these variables?
     - Create a basic plan for starting the EDA.
+
 ## Step 2: Summary Statistics and Graphs
 Exploring summary information about the variables
 
