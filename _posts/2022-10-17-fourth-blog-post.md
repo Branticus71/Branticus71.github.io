@@ -32,5 +32,5 @@ Begin thinking about the relation between different variables in the data and us
 - Correlation
 - Regression analysis
 
-### Step 4: Conclusion
+## Step 4: Conclusion
 Finish by summarizing interesting findings and suggestions for further analysis.
