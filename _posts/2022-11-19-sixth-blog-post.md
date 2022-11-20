@@ -14,6 +14,6 @@ R is very good at automating reports and I am sure that taking advantage of this
 
 ## Links to Project and Repo
 
-[github pages](https://github.com/Branticus71/Project-3-Group-A.git)
+[github repo](https://github.com/Branticus71/Project-3-Group-A.git)
 
-[github repo](https://branticus71.github.io/Project-3-Group-A/)
+[github pages](https://branticus71.github.io/Project-3-Group-A/)
