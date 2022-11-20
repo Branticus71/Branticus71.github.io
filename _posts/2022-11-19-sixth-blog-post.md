@@ -11,3 +11,9 @@ I found the project itself to be fairly straightforward and most difficulties ca
 
 ## What are my Big Take-Aways from this Project?
 R is very good at automating reports and I am sure that taking advantage of this will save many hours of my life once I enter into my career in data.
+
+## Links to Project and Repo
+
+[github pages](https://branticus71.github.io/Project-2-Group-A/)
+
+[github repo](https://github.com/Branticus71/Project-2-Group-A)
